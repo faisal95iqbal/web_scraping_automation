@@ -1,0 +1,6 @@
+product_id,product_name,category,price,stock,warehouse
+101,Laptop,Electronics,1200.0,10.0,A
+102,Phone,Electronics,800.0,5.0,B
+103,Headphones,Electronics,150.0,,A
+104,,Accessories,,20.0,C
+105,Mouse,Accessories,25.0,7.0,B

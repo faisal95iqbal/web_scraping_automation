@@ -1,0 +1,6 @@
+product_id,stock,warehouse
+101, 10 ,A
+102,5,B
+103,,A
+104,20 ,C
+105,  7 ,B
